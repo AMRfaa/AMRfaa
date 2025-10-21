@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anisa Muziya Rafa
-- 👀 I’m interested in him
+- 👀 I’m interested in technology
 
 
 <!---
