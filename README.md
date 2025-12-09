@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Saya adalah mahasiswa Teknologi Informasi yang rajin, bertanggung jawab, dan dipercaya sebagai asisten dosen. Saya memiliki minat dalam pengembangan teknologi, pembelajaran digital, dan berkomitmen untuk terus mengembangkan diri agar dapat berkontribusi di bidang IT dan pendidikan."
+"Saya adalah mahasiswa Teknologi Informasi yang rajin, bertanggung jawab, dan dipercaya sebagai asisten dosen. Saya memiliki minat dalam pengembangan teknologi, pembelajaran digital, dan berkomitmen untuk terus mengembangkan diri agar dapat berkontribusi di bidang IT."
 
 
 ## 🌐 Socials:
